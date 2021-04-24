@@ -1,4 +1,4 @@
-# naigation
+# Flutter Project
 
 A new Flutter project.
 
